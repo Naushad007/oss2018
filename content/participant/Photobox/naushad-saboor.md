@@ -1,15 +1,15 @@
 ---
 title           : Naushad Saboor
 type            : participant
-job_title       :
+job_title       : IT Security Specialist
 company         : Photobox GS
-travel-from     :
-image           :
-linkedin        :
-twitter         :
+travel-from     : London
+image           : https://pbs.twimg.com/profile_images/787041481576112129/prX7KmUZ_400x400.jpg
+linkedin        : https://www.linkedin.com/in/DrNaushad
+twitter         : https://twitter.com/Naushad_IT
 facebook        :
-website         :
-email           :
+website         : https://www.naushad.co.uk/
+email           : hello@naushad.co.uk
 project_leader  :
 chapter_leader  :
 regonline       :
