@@ -15,6 +15,8 @@ room_number  :
 status       : draft              # draft, review-content, done
 description  : When to move Neo4J from Open source engines into the Neo4J Enterprise version provided by Neo4J
 organizers   :
+    - Naushad Saboor
+    - Orid Ahmed
     - Vladimir Voskresenskiy
     - Dan Gapco
 participants :
