@@ -16,6 +16,8 @@ organizers   :
     - Puneet Thapliyal
     - Imran Mohammed A
     - Paul Dubourg
+    - Naushad Saboor
+    - Orid Ahmed
 description  : DevSecOps Maturity Model (DSOMM)
 ---
 
