@@ -17,6 +17,7 @@ description  : When to move Neo4J from Open source engines into the Neo4J Enterp
 organizers   :
     - Vladimir Voskresenskiy
     - Dan Gapco
+    - Naushad Saboor
 participants :
 ---
 
