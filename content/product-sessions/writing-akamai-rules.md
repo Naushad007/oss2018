@@ -17,6 +17,7 @@ description  : Share knowledge on incident handling with Akamai
 organizers   :
     - Vladimir Voskresenskiy
     - Dan Gapco
+    - Naushad Saboor
 participants :
 ---
 
