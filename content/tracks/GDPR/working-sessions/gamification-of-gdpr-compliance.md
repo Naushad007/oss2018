@@ -13,7 +13,7 @@ room_number  :
 status       : draft              # draft, review-content, done
 description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
 organizers   :
-participants : Tony Richards
+participants : Tony Richards, Naushad Saboor, Orid Ahmed
 ---
 
 There are a lots of good things behind the GDRR
