@@ -17,6 +17,8 @@ description  : When to move the Elastic (ELK) stack from Open source into the co
 organizers   :
     - Vladimir Voskresenskiy
     - Dan Gapco
+    - Naushad Saboor
+    - Orid Ahmed
 participants :
 ---
 
