@@ -11,7 +11,7 @@ room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
 description  :
-participants :
+participants : -Naushad Saboor
 organizers   :
     - Adrian Winckles
 ---
