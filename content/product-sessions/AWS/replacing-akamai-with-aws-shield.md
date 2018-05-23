@@ -18,6 +18,8 @@ participants :
     - John Killilea
     - Simon Pavillon
     - Vladimir Voskresenskiy
+    - Naushad Saboor
+    - Orid Ahmed
 
 
 
