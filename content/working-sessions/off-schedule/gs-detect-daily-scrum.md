@@ -14,6 +14,7 @@ participants :
     - Naushad Saboor
     - Simon Pavillon
     - Vladimir Voskresenskiy
+    - Orid Ahmed
 
 ---
 
