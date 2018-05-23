@@ -20,6 +20,8 @@ participants :
     - Dan Gapco
     - John Killilea
     - Vladimir Voskresenskiy
+    - Naushad Saboor
+    - Orid Ahmed
 ---
 
 ## What
