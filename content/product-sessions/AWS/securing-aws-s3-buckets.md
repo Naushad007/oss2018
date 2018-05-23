@@ -17,6 +17,8 @@ participants :
     - James Wharton
     - Simon Pavillon
     - Vladimir Voskresenskiy
+    - Naushad Saboor
+    - Orid Ahmed
 
 ---
 
